@@ -1,0 +1,6 @@
+../main.cpp:105:1:void __static_initialization_and_destruction_0(int, int)	16	static
+../main.cpp:10:6:void add_timespec(timespec*, int)	0	static
+../main.cpp:23:7:void* communication_thread(void*)	16	static
+../main.cpp:53:5:int main(int, char**)	56	static
+../main.cpp:105:1:cpp)	8	static
+../main.cpp:105:1:cpp)	8	static

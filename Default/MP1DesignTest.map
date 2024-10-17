@@ -1,0 +1,824 @@
+
+Discarded input sections
+
+ .rodata.cst4   0x00000000        0x4 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+ .ARM.extab     0x00000000        0x0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+ .data          0x00000000        0x4 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+ .bss           0x00000000        0x0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+ .note.GNU-stack
+                0x00000000        0x0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+ .data          0x00000000        0x0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crti.o
+ .bss           0x00000000        0x0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crti.o
+ .note.GNU-stack
+                0x00000000        0x0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crti.o
+ .data          0x00000000        0x4 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/crtbegin.o
+ .rodata        0x00000000       0x90 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/crtbegin.o
+ .note.GNU-stack
+                0x00000000        0x0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/crtbegin.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .text          0x00000000        0x0 ./main.o
+ .data          0x00000000        0x0 ./main.o
+ .bss           0x00000000        0x0 ./main.o
+ .note.GNU-stack
+                0x00000000        0x0 ./main.o
+ .text          0x00000000        0x0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/crtend.o
+ .data          0x00000000        0x0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/crtend.o
+ .bss           0x00000000        0x0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/crtend.o
+ .rodata        0x00000000       0x90 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/crtend.o
+ .note.GNU-stack
+                0x00000000        0x0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/crtend.o
+ .text          0x00000000        0x0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crtn.o
+ .data          0x00000000        0x0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crtn.o
+ .bss           0x00000000        0x0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crtn.o
+ .note.GNU-stack
+                0x00000000        0x0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+LOAD /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crti.o
+LOAD /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/crtbegin.o
+LOAD ./main.o
+LOAD /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/libstdc++.so
+LOAD /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/libm.so
+LOAD /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/lib/libgcc_s.so
+START GROUP
+LOAD /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/lib/libgcc_s.so.1
+LOAD /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/libgcc.a
+END GROUP
+LOAD /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/libgcc.a
+LOAD /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/libc.so
+START GROUP
+LOAD /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/lib/libc.so.6
+LOAD /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/libc_nonshared.a
+LOAD /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/lib/ld-linux-armhf.so.3
+END GROUP
+LOAD /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/lib/libgcc_s.so
+START GROUP
+LOAD /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/lib/libgcc_s.so.1
+LOAD /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/libgcc.a
+END GROUP
+LOAD /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/libgcc.a
+LOAD /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/crtend.o
+LOAD /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crtn.o
+                [!provide]                        PROVIDE (__executable_start = SEGMENT_START ("text-segment", 0x10000))
+                0x00010154                        . = (SEGMENT_START ("text-segment", 0x10000) + SIZEOF_HEADERS)
+
+.interp         0x00010154       0x19
+ *(.interp)
+ .interp        0x00010154       0x19 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+
+.note.gnu.build-id
+                0x00010170       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00010170       0x24 linker stubs
+
+.note.ABI-tag   0x00010194       0x20
+ .note.ABI-tag  0x00010194       0x20 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x000101b4       0xa8
+ *(.gnu.hash)
+ .gnu.hash      0x000101b4       0xa8 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+
+.dynsym         0x0001025c      0x150
+ *(.dynsym)
+ .dynsym        0x0001025c      0x150 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+
+.dynstr         0x000103ac      0x1f0
+ *(.dynstr)
+ .dynstr        0x000103ac      0x1f0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+
+.gnu.version    0x0001059c       0x2a
+ *(.gnu.version)
+ .gnu.version   0x0001059c       0x2a /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+
+.gnu.version_d  0x000105c8        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x000105c8        0x0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+
+.gnu.version_r  0x000105c8       0x60
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x000105c8       0x60 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+
+.rel.dyn        0x00010628       0x10
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ .rel.data.rel.ro
+                0x00010628        0x0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x00010628        0x8 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ .rel.bss       0x00010630        0x8 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+                [!provide]                        PROVIDE (__rel_iplt_start = .)
+ *(.rel.iplt)
+ .rel.iplt      0x00010638        0x0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+                [!provide]                        PROVIDE (__rel_iplt_end = .)
+
+.rela.dyn       0x00010638        0x0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+                [!provide]                        PROVIDE (__rela_iplt_start = .)
+ *(.rela.iplt)
+                [!provide]                        PROVIDE (__rela_iplt_end = .)
+
+.rel.plt        0x00010638       0x88
+ *(.rel.plt)
+ .rel.plt       0x00010638       0x88 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+
+.rela.plt
+ *(.rela.plt)
+
+.init           0x000106c0        0xc
+ *(SORT_NONE(.init))
+ .init          0x000106c0        0x8 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crti.o
+                0x000106c0                _init
+ .init          0x000106c8        0x4 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crtn.o
+
+.plt            0x000106cc       0xe0
+ *(.plt)
+ .plt           0x000106cc       0xe0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+                0x000106e0                pthread_attr_setschedpolicy@@GLIBC_2.4
+                0x000106ec                puts@@GLIBC_2.4
+                0x000106f8                perror@@GLIBC_2.4
+                0x00010704                pthread_detach@@GLIBC_2.34
+                0x00010710                __libc_start_main@@GLIBC_2.34
+                0x0001071c                abort@@GLIBC_2.4
+                0x00010728                clock_gettime@@GLIBC_2.17
+                0x00010734                std::basic_ostream<char, std::char_traits<char> >& std::operator<< <std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, char const*)@@GLIBCXX_3.4
+                0x00010740                pthread_attr_destroy@@GLIBC_2.4
+                0x0001074c                pthread_attr_init@@GLIBC_2.4
+                0x00010758                std::ios_base::Init::Init()@@GLIBCXX_3.4
+                0x00010764                pthread_attr_setschedparam@@GLIBC_2.4
+                0x00010770                pthread_create@@GLIBC_2.34
+                0x0001077c                pthread_attr_setinheritsched@@GLIBC_2.4
+                0x00010794                clock_nanosleep@@GLIBC_2.17
+                0x000107a0                std::ios_base::Init::~Init()@@GLIBCXX_3.4
+
+.iplt           0x000107ac        0x0
+ *(.iplt)
+ .iplt          0x000107ac        0x0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+
+.text           0x000107ac      0x22a
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(SORT_BY_NAME(.text.sorted.*))
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x000107ac       0x34 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+                0x000107ac                _start
+ .text          0x000107e0       0x24 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crti.o
+ .text          0x00010804       0x6c /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/crtbegin.o
+ .text._Z41__static_initialization_and_destruction_0ii
+                0x00010870       0x3a ./main.o
+ .text._Z12add_timespecP8timespeci
+                0x000108aa       0x44 ./main.o
+                0x000108aa                add_timespec(timespec*, int)
+ .text._Z20communication_threadPv
+                0x000108ee       0x5c ./main.o
+                0x000108ee                communication_thread(void*)
+ .text.main     0x0001094a       0x70 ./main.o
+                0x0001094a                main
+ .text._GLOBAL__sub_I_stop_thread
+                0x000109ba        0xe ./main.o
+ .text._GLOBAL__sub_D_stop_thread
+                0x000109c8        0xe ./main.o
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x000109d6        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x000109d6        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x000109d6        0x0 linker stubs
+ *(.v4_bx)
+ .v4_bx         0x000109d6        0x0 linker stubs
+
+.fini           0x000109d8        0x8
+ *(SORT_NONE(.fini))
+ .fini          0x000109d8        0x4 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crti.o
+                0x000109d8                _fini
+ .fini          0x000109dc        0x4 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crtn.o
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+
+.rodata         0x000109e0       0x88
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata._Z20communication_threadPv.str1.4
+                0x000109e0       0x52 ./main.o
+ *fill*         0x00010a32        0x2 
+ .rodata.main.str1.4
+                0x00010a34       0x34 ./main.o
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x00010a68        0x8
+                [!provide]                        PROVIDE (__exidx_start = .)
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00010a68        0x8 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+                [!provide]                        PROVIDE (__exidx_end = .)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x00010a70        0x4
+ *(.eh_frame)
+ .eh_frame      0x00010a70        0x4 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/crtend.o
+ *(.eh_frame.*)
+
+.sframe
+ *(.sframe)
+ *(.sframe.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges*)
+                0x00011ef0                        . = DATA_SEGMENT_ALIGN (CONSTANT (MAXPAGESIZE), CONSTANT (COMMONPAGESIZE))
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.sframe
+ *(.sframe)
+ *(.sframe.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges*)
+
+.tdata          0x00011ef0        0x0
+                [!provide]                        PROVIDE (__tdata_start = .)
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x00011ef0        0x0
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x00011ef0        0x8
+                [!provide]                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x00011ef0        0x4 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/crtbegin.o
+ .init_array    0x00011ef4        0x4 ./main.o
+                [!provide]                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x00011ef8        0x8
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x00011ef8        0x4 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/crtbegin.o
+ .fini_array    0x00011efc        0x4 ./main.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro    0x00011f00        0x0
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro   0x00011f00        0x0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+
+.dynamic        0x00011f00      0x100
+ *(.dynamic)
+ .dynamic       0x00011f00      0x100 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+                0x00011f00                _DYNAMIC
+                0x00012000                        . = DATA_SEGMENT_RELRO_END (., 0x0)
+
+.got            0x00012000       0x58
+ *(.got.plt)
+ .got.plt       0x00012000       0x50 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+                0x00012000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+ .igot.plt      0x00012050        0x0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+ *(.got)
+ .got           0x00012050        0x8 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+ *(.igot)
+
+.data           0x00012058        0x0
+                [!provide]                        PROVIDE (__data_start = .)
+ *(.data .data.* .gnu.linkonce.d.*)
+
+.tm_clone_table
+                0x00012058        0x0
+ .tm_clone_table
+                0x00012058        0x0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/crtbegin.o
+ .tm_clone_table
+                0x00012058        0x0 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/crtend.o
+
+.data1
+ *(.data1)
+                0x00012058                        _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                0x00012058                        . = .
+                0x00012058                        __bss_start = .
+                0x00012058                        __bss_start__ = .
+
+.bss            0x00012058       0x98
+ *(.dynbss)
+ .dynbss        0x00012058       0x8c /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+                0x00012058                std::cout@@GLIBCXX_3.4
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000120e4        0x1 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/crtbegin.o
+ *fill*         0x000120e5        0x3 
+ .bss.stop_thread
+                0x000120e8        0x4 ./main.o
+                0x000120e8                stop_thread
+ .bss._ZStL8__ioinit
+                0x000120ec        0x1 ./main.o
+ *(COMMON)
+                0x000120f0                        . = ALIGN ((. != 0x0)?0x4:0x1)
+ *fill*         0x000120ed        0x3 
+                0x000120f0                        _bss_end__ = .
+                0x000120f0                        __bss_end__ = .
+                0x000120f0                        . = ALIGN (0x4)
+                0x000120f0                        . = SEGMENT_START ("ldata-segment", .)
+                0x000120f0                        . = ALIGN (0x4)
+                0x000120f0                        __end__ = .
+                0x000120f0                        _end = .
+                [!provide]                        PROVIDE (end = .)
+                0x000120f0                        . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x12
+ *(.comment)
+ .comment       0x00000000       0x12 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+                                 0x39 (size before relaxing)
+ .comment       0x00000012       0x13 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/crtbegin.o
+ .comment       0x00000012       0x13 ./main.o
+ .comment       0x00000012       0x13 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/crtend.o
+
+.ARM.attributes
+                0x00000000       0x3b
+ .ARM.attributes
+                0x00000000       0x3b /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+ .ARM.attributes
+                0x0000003b       0x2b /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crti.o
+ .ARM.attributes
+                0x00000066       0x3b /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/crtbegin.o
+ .ARM.attributes
+                0x000000a1       0x3b ./main.o
+ .ARM.attributes
+                0x000000dc       0x3b /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/arm-ostl-linux-gnueabi/12.3.0/crtend.o
+ .ARM.attributes
+                0x00000117       0x2b /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crtn.o
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0xf0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x50 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+ .debug_aranges
+                0x00000050       0x30 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crti.o
+ .debug_aranges
+                0x00000080       0x48 ./main.o
+ .debug_aranges
+                0x000000c8       0x28 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crtn.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x345c
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x51e /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+ .debug_info    0x0000051e       0x23 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crti.o
+ .debug_info    0x00000541     0x2ef8 ./main.o
+ .debug_info    0x00003439       0x23 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crtn.o
+
+.debug_abbrev   0x00000000      0x88f
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x174 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+ .debug_abbrev  0x00000174       0x12 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crti.o
+ .debug_abbrev  0x00000186      0x6f7 ./main.o
+ .debug_abbrev  0x0000087d       0x12 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crtn.o
+
+.debug_line     0x00000000     0x1a1f
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x1f1 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+ .debug_line    0x000001f1       0x70 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crti.o
+ .debug_line    0x00000261     0x1766 ./main.o
+ .debug_line    0x000019c7       0x58 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crtn.o
+
+.debug_frame    0x00000000       0xa4
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xa4 ./main.o
+
+.debug_str      0x00000000    0x13e00
+ *(.debug_str)
+ .debug_str     0x00000000      0x400 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+                                0x795 (size before relaxing)
+ .debug_str     0x00000400       0x16 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crti.o
+                                 0x45 (size before relaxing)
+ .debug_str     0x00000416    0x139d4 ./main.o
+                              0x1504a (size before relaxing)
+ .debug_str     0x00013dea       0x16 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crtn.o
+                                 0x45 (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x00000000       0x46
+ *(.debug_line_str)
+ .debug_line_str
+                0x00000000       0x38 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crt1.o
+ .debug_line_str
+                0x00000038        0x7 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crti.o
+                                 0x37 (size before relaxing)
+ .debug_line_str
+                0x0000003f        0x7 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crtn.o
+                                 0x37 (size before relaxing)
+
+.debug_loclists
+                0x00000000       0xac
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000       0xac ./main.o
+
+.debug_macro    0x00000000     0x4d1a
+ *(.debug_macro)
+ .debug_macro   0x00000000      0xae6 ./main.o
+ .debug_macro   0x00000ae6      0xbce ./main.o
+ .debug_macro   0x000016b4       0x28 ./main.o
+ .debug_macro   0x000016dc      0x1d6 ./main.o
+ .debug_macro   0x000018b2       0x10 ./main.o
+ .debug_macro   0x000018c2      0x29b ./main.o
+ .debug_macro   0x00001b5d       0x1c ./main.o
+ .debug_macro   0x00001b79       0x58 ./main.o
+ .debug_macro   0x00001bd1      0x1ad ./main.o
+ .debug_macro   0x00001d7e       0x10 ./main.o
+ .debug_macro   0x00001d8e       0x7b ./main.o
+ .debug_macro   0x00001e09       0x40 ./main.o
+ .debug_macro   0x00001e49       0x1c ./main.o
+ .debug_macro   0x00001e65       0x10 ./main.o
+ .debug_macro   0x00001e75      0x6be ./main.o
+ .debug_macro   0x00002533       0x10 ./main.o
+ .debug_macro   0x00002543       0x5e ./main.o
+ .debug_macro   0x000025a1       0x28 ./main.o
+ .debug_macro   0x000025c9       0x79 ./main.o
+ .debug_macro   0x00002642       0x16 ./main.o
+ .debug_macro   0x00002658      0x11c ./main.o
+ .debug_macro   0x00002774       0x10 ./main.o
+ .debug_macro   0x00002784       0x16 ./main.o
+ .debug_macro   0x0000279a       0x10 ./main.o
+ .debug_macro   0x000027aa       0x23 ./main.o
+ .debug_macro   0x000027cd      0x173 ./main.o
+ .debug_macro   0x00002940       0x1c ./main.o
+ .debug_macro   0x0000295c       0x9b ./main.o
+ .debug_macro   0x000029f7       0x10 ./main.o
+ .debug_macro   0x00002a07       0x41 ./main.o
+ .debug_macro   0x00002a48       0x19 ./main.o
+ .debug_macro   0x00002a61       0x11 ./main.o
+ .debug_macro   0x00002a72       0x1c ./main.o
+ .debug_macro   0x00002a8e       0x10 ./main.o
+ .debug_macro   0x00002a9e       0x5e ./main.o
+ .debug_macro   0x00002afc       0xf4 ./main.o
+ .debug_macro   0x00002bf0       0x10 ./main.o
+ .debug_macro   0x00002c00      0x291 ./main.o
+ .debug_macro   0x00002e91       0x10 ./main.o
+ .debug_macro   0x00002ea1       0x35 ./main.o
+ .debug_macro   0x00002ed6       0x58 ./main.o
+ .debug_macro   0x00002f2e       0xb4 ./main.o
+ .debug_macro   0x00002fe2       0x16 ./main.o
+ .debug_macro   0x00002ff8       0x10 ./main.o
+ .debug_macro   0x00003008       0x1c ./main.o
+ .debug_macro   0x00003024       0x10 ./main.o
+ .debug_macro   0x00003034       0x10 ./main.o
+ .debug_macro   0x00003044       0x37 ./main.o
+ .debug_macro   0x0000307b       0x5e ./main.o
+ .debug_macro   0x000030d9       0x16 ./main.o
+ .debug_macro   0x000030ef       0x16 ./main.o
+ .debug_macro   0x00003105       0xd6 ./main.o
+ .debug_macro   0x000031db       0x5e ./main.o
+ .debug_macro   0x00003239       0x94 ./main.o
+ .debug_macro   0x000032cd       0x16 ./main.o
+ .debug_macro   0x000032e3       0x58 ./main.o
+ .debug_macro   0x0000333b      0x102 ./main.o
+ .debug_macro   0x0000343d       0x11 ./main.o
+ .debug_macro   0x0000344e       0x46 ./main.o
+ .debug_macro   0x00003494       0x16 ./main.o
+ .debug_macro   0x000034aa       0x10 ./main.o
+ .debug_macro   0x000034ba       0x10 ./main.o
+ .debug_macro   0x000034ca       0xc0 ./main.o
+ .debug_macro   0x0000358a       0x40 ./main.o
+ .debug_macro   0x000035ca       0x16 ./main.o
+ .debug_macro   0x000035e0       0x2c ./main.o
+ .debug_macro   0x0000360c       0x11 ./main.o
+ .debug_macro   0x0000361d       0x18 ./main.o
+ .debug_macro   0x00003635       0x28 ./main.o
+ .debug_macro   0x0000365d       0x2e ./main.o
+ .debug_macro   0x0000368b       0x19 ./main.o
+ .debug_macro   0x000036a4       0x11 ./main.o
+ .debug_macro   0x000036b5       0x4f ./main.o
+ .debug_macro   0x00003704       0x18 ./main.o
+ .debug_macro   0x0000371c       0x19 ./main.o
+ .debug_macro   0x00003735       0x88 ./main.o
+ .debug_macro   0x000037bd       0x19 ./main.o
+ .debug_macro   0x000037d6       0x1c ./main.o
+ .debug_macro   0x000037f2       0x10 ./main.o
+ .debug_macro   0x00003802       0x16 ./main.o
+ .debug_macro   0x00003818       0x3a ./main.o
+ .debug_macro   0x00003852       0x4c ./main.o
+ .debug_macro   0x0000389e       0x2e ./main.o
+ .debug_macro   0x000038cc       0x28 ./main.o
+ .debug_macro   0x000038f4       0x73 ./main.o
+ .debug_macro   0x00003967       0x1c ./main.o
+ .debug_macro   0x00003983       0x1c ./main.o
+ .debug_macro   0x0000399f       0x4c ./main.o
+ .debug_macro   0x000039eb       0x1c ./main.o
+ .debug_macro   0x00003a07       0x46 ./main.o
+ .debug_macro   0x00003a4d       0x20 ./main.o
+ .debug_macro   0x00003a6d       0x10 ./main.o
+ .debug_macro   0x00003a7d       0x10 ./main.o
+ .debug_macro   0x00003a8d       0x1c ./main.o
+ .debug_macro   0x00003aa9       0xea ./main.o
+ .debug_macro   0x00003b93       0x10 ./main.o
+ .debug_macro   0x00003ba3       0x10 ./main.o
+ .debug_macro   0x00003bb3       0x34 ./main.o
+ .debug_macro   0x00003be7       0x4c ./main.o
+ .debug_macro   0x00003c33       0x34 ./main.o
+ .debug_macro   0x00003c67       0x43 ./main.o
+ .debug_macro   0x00003caa       0x17 ./main.o
+ .debug_macro   0x00003cc1      0x11d ./main.o
+ .debug_macro   0x00003dde       0xd6 ./main.o
+ .debug_macro   0x00003eb4      0x256 ./main.o
+ .debug_macro   0x0000410a       0x17 ./main.o
+ .debug_macro   0x00004121       0x19 ./main.o
+ .debug_macro   0x0000413a       0x18 ./main.o
+ .debug_macro   0x00004152       0x17 ./main.o
+ .debug_macro   0x00004169       0x76 ./main.o
+ .debug_macro   0x000041df       0x1c ./main.o
+ .debug_macro   0x000041fb       0x6a ./main.o
+ .debug_macro   0x00004265      0x191 ./main.o
+ .debug_macro   0x000043f6       0x52 ./main.o
+ .debug_macro   0x00004448       0x27 ./main.o
+ .debug_macro   0x0000446f       0x3c ./main.o
+ .debug_macro   0x000044ab      0x832 ./main.o
+ .debug_macro   0x00004cdd       0x27 ./main.o
+ .debug_macro   0x00004d04       0x16 ./main.o
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000       0x69
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000       0x1f /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crti.o
+ .debug_rnglists
+                0x0000001f       0x31 ./main.o
+ .debug_rnglists
+                0x00000050       0x19 /opt/st/stm32mp1/4.2.4-openstlinux-6.1-yocto-mickledore-mpu-v24.06.26/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi/usr/lib/crtn.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(MP1DesignTest elf32-littlearm)
+LOAD linker stubs
